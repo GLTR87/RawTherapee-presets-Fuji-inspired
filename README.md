@@ -13,6 +13,6 @@ The goal with these presets is to be able to apply them to any RAW picture and b
 
 The presets were calibrated with a Sony A7 camera, but they give good results with Canon 5D and Olympus X-Z1 RAW files, and probably others.
 
-Released under GPLv3.
+Released under public domain.
 
 All Fujifilm trademarks are properties of Fujifilm.
