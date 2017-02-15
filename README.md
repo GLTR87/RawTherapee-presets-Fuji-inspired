@@ -1,8 +1,9 @@
 # RawTherapee-presets-Fuji-inspired
 Presets inspired by the Fuji film simulator modes, to be used on RAW files with RawTherapee.
 
+Make sure you reset your picture with RT's "neutral" preset before applying the FX presets. No need to reset between FX presets.
+
 What is affected by those presets:
--No auto exposure.
 -Custom tone curves.
 -HSV curves.
 -Black & White. Desaturation for Acros and Monochrome.
